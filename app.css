@@ -25,10 +25,10 @@
 }
 
 .dark {
-  --bg-main: #2a2a38;
-  --bg-body: #1a1a2e;
-  --color-txt: #6a6a6a;
-  --filled-color: #4f4f63;
+  --bg-main: #282828;
+  --bg-body: #1c1c1c;
+  --color-txt: #9e9e9e;
+  --filled-color: #9e9e9e;
   --filled-bg: #000;
 }
 
